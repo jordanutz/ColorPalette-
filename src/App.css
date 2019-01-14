@@ -1,0 +1,14 @@
+* {
+  text-align: center;
+
+}
+
+.ColorSelector {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+header {
+  background: gray;
+  color: white;
+}
